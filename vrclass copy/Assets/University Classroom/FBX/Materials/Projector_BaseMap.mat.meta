@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fec5828c986d0b3409b183005906f6e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312897
+  packageName: University Classroom
+  packageVersion: 1.0
+  assetPath: Assets/University Classroom/FBX/Materials/Projector_BaseMap.mat
+  uploadId: 737742

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce739c3449d6f5b4e84ba34cc98cfa71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312897
+  packageName: University Classroom
+  packageVersion: 1.0
+  assetPath: Assets/University Classroom/FBX/Materials/Ceiling_Base_Color.mat
+  uploadId: 737742

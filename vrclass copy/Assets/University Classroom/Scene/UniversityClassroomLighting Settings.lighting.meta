@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f2f7ca558228c24c863bacf2b7c5c3b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312897
+  packageName: University Classroom
+  packageVersion: 1.0
+  assetPath: Assets/University Classroom/Scene/UniversityClassroomLighting Settings.lighting
+  uploadId: 737742
